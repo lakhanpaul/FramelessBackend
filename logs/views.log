@@ -1,0 +1,799 @@
+2021-06-02 21:37:39,468::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-02 21:37:49,360::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-02 21:39:29,774::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\algolia\views.py changed, reloading.
+2021-06-02 21:39:29,775::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-02 21:42:13,359::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\algolia\views.py changed, reloading.
+2021-06-02 21:42:13,360::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-02 21:45:44,166::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\algolia\views.py changed, reloading.
+2021-06-02 21:45:44,167::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-02 21:46:00,971::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\algolia\views.py changed, reloading.
+2021-06-02 21:46:00,971::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-02 21:46:18,260::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\algolia\urls.py changed, reloading.
+2021-06-02 21:46:18,260::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-02 21:46:26,413::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\algolia\views.py changed, reloading.
+2021-06-02 21:46:26,413::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-02 21:47:33,405::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\algolia\urls.py changed, reloading.
+2021-06-02 21:47:33,406::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-02 21:47:57,868::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\algolia\views.py changed, reloading.
+2021-06-02 21:47:57,869::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-02 21:48:54,919::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\algolia\views.py changed, reloading.
+2021-06-02 21:48:54,919::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-02 21:50:07,417::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\algolia\views.py changed, reloading.
+2021-06-02 21:50:07,418::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 09:29:07,780::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\algolia\tests.py changed, reloading.
+2021-06-03 09:29:07,800::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 09:31:55,979::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\algolia\index.py changed, reloading.
+2021-06-03 09:31:55,980::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 09:43:57,379::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\algolia\views.py changed, reloading.
+2021-06-03 09:43:57,379::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 09:46:58,100::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\algolia\views.py changed, reloading.
+2021-06-03 09:46:58,100::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 09:47:17,358::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\algolia\views.py changed, reloading.
+2021-06-03 09:47:17,358::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 09:48:21,189::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\algolia\views.py changed, reloading.
+2021-06-03 09:48:21,189::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 09:49:02,591::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\algolia\urls.py changed, reloading.
+2021-06-03 09:49:02,592::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 09:49:05,441::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 09:49:14,333::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 09:49:16,957::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 09:50:50,223::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\algolia\views.py changed, reloading.
+2021-06-03 09:50:50,224::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 09:52:07,606::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\algolia\views.py changed, reloading.
+2021-06-03 09:52:07,606::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 09:52:27,063::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\algolia\urls.py changed, reloading.
+2021-06-03 09:52:27,063::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 09:52:32,912::ERROR::django.request::log.py::224::Internal Server Error: /api/algolia/hello/first
+Traceback (most recent call last):
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\rest_framework\views.py", line 497, in dispatch
+    self.initial(request, *args, **kwargs)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\rest_framework\views.py", line 415, in initial
+    self.check_permissions(request)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\rest_framework\views.py", line 332, in check_permissions
+    if not permission.has_permission(request, self):
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\rest_framework\permissions.py", line 229, in has_permission
+    queryset = self._queryset(view)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\rest_framework\permissions.py", line 212, in _queryset
+    queryset = view.get_queryset()
+  File "D:\Documents\Volare\backend\algolia\views.py", line 86, in get_queryset
+    super().get_serializer_context(self)
+TypeError: get_serializer_context() takes 1 positional argument but 2 were given
+2021-06-03 09:52:35,361::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\logs\views.log changed, reloading.
+2021-06-03 09:52:35,361::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 09:54:54,066::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\algolia\views.py changed, reloading.
+2021-06-03 09:54:54,067::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 09:54:57,021::ERROR::django.request::log.py::224::Internal Server Error: /api/algolia/hello/first
+Traceback (most recent call last):
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\rest_framework\views.py", line 497, in dispatch
+    self.initial(request, *args, **kwargs)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\rest_framework\views.py", line 415, in initial
+    self.check_permissions(request)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\rest_framework\views.py", line 332, in check_permissions
+    if not permission.has_permission(request, self):
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\rest_framework\permissions.py", line 229, in has_permission
+    queryset = self._queryset(view)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\rest_framework\permissions.py", line 212, in _queryset
+    queryset = view.get_queryset()
+  File "D:\Documents\Volare\backend\algolia\views.py", line 86, in get_queryset
+    super().get_serializer_context(self)
+TypeError: get_serializer_context() takes 1 positional argument but 2 were given
+2021-06-03 09:54:57,815::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\logs\views.log changed, reloading.
+2021-06-03 09:54:57,815::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 09:54:58,824::ERROR::django.request::log.py::224::Internal Server Error: /api/algolia/hello/first
+Traceback (most recent call last):
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\rest_framework\views.py", line 497, in dispatch
+    self.initial(request, *args, **kwargs)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\rest_framework\views.py", line 415, in initial
+    self.check_permissions(request)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\rest_framework\views.py", line 332, in check_permissions
+    if not permission.has_permission(request, self):
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\rest_framework\permissions.py", line 229, in has_permission
+    queryset = self._queryset(view)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\rest_framework\permissions.py", line 212, in _queryset
+    queryset = view.get_queryset()
+  File "D:\Documents\Volare\backend\algolia\views.py", line 86, in get_queryset
+    super().get_serializer_context(self)
+TypeError: get_serializer_context() takes 1 positional argument but 2 were given
+2021-06-03 09:55:01,245::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\logs\views.log changed, reloading.
+2021-06-03 09:55:01,246::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 09:55:09,104::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\algolia\views.py changed, reloading.
+2021-06-03 09:55:09,105::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 09:55:12,020::ERROR::django.request::log.py::224::Internal Server Error: /api/algolia/hello/first
+Traceback (most recent call last):
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\rest_framework\views.py", line 497, in dispatch
+    self.initial(request, *args, **kwargs)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\rest_framework\views.py", line 415, in initial
+    self.check_permissions(request)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\rest_framework\views.py", line 332, in check_permissions
+    if not permission.has_permission(request, self):
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\rest_framework\permissions.py", line 229, in has_permission
+    queryset = self._queryset(view)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\rest_framework\permissions.py", line 212, in _queryset
+    queryset = view.get_queryset()
+  File "D:\Documents\Volare\backend\algolia\views.py", line 86, in get_queryset
+    super().get_serializer_context(self)
+TypeError: get_serializer_context() takes 1 positional argument but 2 were given
+2021-06-03 09:55:12,730::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\logs\views.log changed, reloading.
+2021-06-03 09:55:12,730::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 09:55:15,997::ERROR::django.request::log.py::224::Internal Server Error: /api/algolia/hello/
+Traceback (most recent call last):
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    response = response.render()
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 105, in render
+    self.content = self.rendered_content
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 81, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 63, in resolve_template
+    return select_template(template, using=self.using)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(', '.join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: index.html
+2021-06-03 09:55:16,065::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\logs\views.log changed, reloading.
+2021-06-03 09:55:16,065::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 09:55:18,753::ERROR::django.request::log.py::224::Internal Server Error: /api/algolia/hello/
+Traceback (most recent call last):
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    response = response.render()
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 105, in render
+    self.content = self.rendered_content
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 81, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 63, in resolve_template
+    return select_template(template, using=self.using)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(', '.join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: index.html
+2021-06-03 09:55:19,572::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\logs\views.log changed, reloading.
+2021-06-03 09:55:19,574::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 09:56:03,794::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\algolia\urls.py changed, reloading.
+2021-06-03 09:56:03,795::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 09:56:06,954::ERROR::django.request::log.py::224::Internal Server Error: /api/algolia/hello/
+Traceback (most recent call last):
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    response = response.render()
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 105, in render
+    self.content = self.rendered_content
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 81, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 63, in resolve_template
+    return select_template(template, using=self.using)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(', '.join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: index.html
+2021-06-03 09:56:07,329::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\logs\views.log changed, reloading.
+2021-06-03 09:56:07,329::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 09:57:25,239::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\algolia\urls.py changed, reloading.
+2021-06-03 09:57:25,240::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 09:57:28,133::ERROR::django.request::log.py::224::Internal Server Error: /api/algolia/hello/
+Traceback (most recent call last):
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    response = response.render()
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 105, in render
+    self.content = self.rendered_content
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 81, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 63, in resolve_template
+    return select_template(template, using=self.using)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(', '.join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: index.html
+2021-06-03 09:57:28,857::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\logs\views.log changed, reloading.
+2021-06-03 09:57:28,858::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 09:57:54,671::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\algolia\views.py changed, reloading.
+2021-06-03 09:57:54,672::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 09:57:57,646::ERROR::django.request::log.py::224::Internal Server Error: /api/algolia/hello/
+Traceback (most recent call last):
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    response = response.render()
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 105, in render
+    self.content = self.rendered_content
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 81, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 63, in resolve_template
+    return select_template(template, using=self.using)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(', '.join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: index.html
+2021-06-03 09:57:58,422::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\logs\views.log changed, reloading.
+2021-06-03 09:57:58,423::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 09:57:59,724::ERROR::django.request::log.py::224::Internal Server Error: /api/algolia/hello/
+Traceback (most recent call last):
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    response = response.render()
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 105, in render
+    self.content = self.rendered_content
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 81, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 63, in resolve_template
+    return select_template(template, using=self.using)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(', '.join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: index.html
+2021-06-03 09:58:02,162::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\logs\views.log changed, reloading.
+2021-06-03 09:58:02,162::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 09:58:08,137::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\algolia\views.py changed, reloading.
+2021-06-03 09:58:08,138::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 09:58:10,170::ERROR::django.request::log.py::224::Internal Server Error: /api/algolia/hello/
+Traceback (most recent call last):
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    response = response.render()
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 105, in render
+    self.content = self.rendered_content
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 81, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 63, in resolve_template
+    return select_template(template, using=self.using)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(', '.join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: index.html
+2021-06-03 09:58:11,630::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\logs\views.log changed, reloading.
+2021-06-03 09:58:11,631::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 09:58:17,443::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\algolia\urls.py changed, reloading.
+2021-06-03 09:58:17,444::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 09:58:29,739::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\algolia\views.py changed, reloading.
+2021-06-03 09:58:29,740::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 09:58:33,879::ERROR::django.request::log.py::224::Internal Server Error: /api/algolia/hello/
+Traceback (most recent call last):
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    response = response.render()
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 105, in render
+    self.content = self.rendered_content
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 81, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 63, in resolve_template
+    return select_template(template, using=self.using)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(', '.join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: index.html
+2021-06-03 09:58:35,723::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\logs\views.log changed, reloading.
+2021-06-03 09:58:35,724::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 09:58:37,041::ERROR::django.request::log.py::224::Internal Server Error: /api/algolia/hello/first
+Traceback (most recent call last):
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    response = response.render()
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 105, in render
+    self.content = self.rendered_content
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 81, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 63, in resolve_template
+    return select_template(template, using=self.using)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(', '.join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: index.html
+2021-06-03 09:58:39,299::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\logs\views.log changed, reloading.
+2021-06-03 09:58:39,300::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 09:58:40,531::ERROR::django.request::log.py::224::Internal Server Error: /api/algolia/
+Traceback (most recent call last):
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    response = response.render()
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 105, in render
+    self.content = self.rendered_content
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 81, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 63, in resolve_template
+    return select_template(template, using=self.using)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(', '.join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: index.html
+2021-06-03 09:58:42,820::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\logs\views.log changed, reloading.
+2021-06-03 09:58:42,821::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 09:58:59,704::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\algolia\urls.py changed, reloading.
+2021-06-03 09:58:59,705::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 09:59:57,099::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\algolia\views.py changed, reloading.
+2021-06-03 09:59:57,100::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 10:03:31,887::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\algolia\views.py changed, reloading.
+2021-06-03 10:03:31,887::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 10:03:49,709::ERROR::django.request::log.py::224::Internal Server Error: /api/algolia/hello/first
+Traceback (most recent call last):
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    response = response.render()
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 105, in render
+    self.content = self.rendered_content
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 81, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 63, in resolve_template
+    return select_template(template, using=self.using)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(', '.join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: index.html
+2021-06-03 10:03:51,199::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\logs\views.log changed, reloading.
+2021-06-03 10:03:51,199::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 10:03:56,040::ERROR::django.request::log.py::224::Internal Server Error: /api/algolia/hello/
+Traceback (most recent call last):
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    response = response.render()
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 105, in render
+    self.content = self.rendered_content
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 81, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 63, in resolve_template
+    return select_template(template, using=self.using)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(', '.join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: index.html
+2021-06-03 10:03:57,058::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\logs\views.log changed, reloading.
+2021-06-03 10:03:57,059::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 10:04:03,191::ERROR::django.request::log.py::224::Internal Server Error: /api/algolia/hello/
+Traceback (most recent call last):
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    response = response.render()
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 105, in render
+    self.content = self.rendered_content
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 81, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 63, in resolve_template
+    return select_template(template, using=self.using)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(', '.join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: index.html
+2021-06-03 10:04:05,198::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\logs\views.log changed, reloading.
+2021-06-03 10:04:05,198::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 10:14:35,087::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\algolia\urls.py changed, reloading.
+2021-06-03 10:14:35,088::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 10:14:41,416::ERROR::django.request::log.py::224::Internal Server Error: /api/algolia/hello/First
+Traceback (most recent call last):
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    response = response.render()
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 105, in render
+    self.content = self.rendered_content
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 81, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 63, in resolve_template
+    return select_template(template, using=self.using)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(', '.join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: index.html
+2021-06-03 10:14:43,409::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\logs\views.log changed, reloading.
+2021-06-03 10:14:43,409::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 10:14:47,560::ERROR::django.request::log.py::224::Internal Server Error: /api/algolia/hello/a
+Traceback (most recent call last):
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    response = response.render()
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 105, in render
+    self.content = self.rendered_content
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 81, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 63, in resolve_template
+    return select_template(template, using=self.using)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(', '.join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: index.html
+2021-06-03 10:14:49,359::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\logs\views.log changed, reloading.
+2021-06-03 10:14:49,360::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 10:15:10,607::ERROR::django.request::log.py::224::Internal Server Error: /api/algolia/hello/
+Traceback (most recent call last):
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    response = response.render()
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 105, in render
+    self.content = self.rendered_content
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 81, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 63, in resolve_template
+    return select_template(template, using=self.using)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(', '.join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: index.html
+2021-06-03 10:15:12,971::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\logs\views.log changed, reloading.
+2021-06-03 10:15:12,971::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 10:17:07,726::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\algolia\urls.py changed, reloading.
+2021-06-03 10:17:07,726::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 10:17:15,582::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\algolia\urls.py changed, reloading.
+2021-06-03 10:17:15,583::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 10:17:41,673::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\algolia\urls.py changed, reloading.
+2021-06-03 10:17:41,674::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 10:17:55,931::ERROR::django.request::log.py::224::Internal Server Error: /api/algolia/hello/
+Traceback (most recent call last):
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    response = response.render()
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 105, in render
+    self.content = self.rendered_content
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 81, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 63, in resolve_template
+    return select_template(template, using=self.using)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(', '.join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: index.html
+2021-06-03 10:17:56,769::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\logs\views.log changed, reloading.
+2021-06-03 10:17:56,769::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 10:21:56,585::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\algolia\urls.py changed, reloading.
+2021-06-03 10:21:56,586::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 10:22:10,508::ERROR::django.request::log.py::224::Internal Server Error: /api/algolia/drinks/f
+Traceback (most recent call last):
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    response = response.render()
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 105, in render
+    self.content = self.rendered_content
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 81, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 63, in resolve_template
+    return select_template(template, using=self.using)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(', '.join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: index.html
+2021-06-03 10:22:11,776::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\logs\views.log changed, reloading.
+2021-06-03 10:22:11,776::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 10:27:36,989::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\search\models.py changed, reloading.
+2021-06-03 10:27:37,011::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 10:27:52,523::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\search\serializers.py changed, reloading.
+2021-06-03 10:27:52,525::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 10:28:56,571::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\search\views.py changed, reloading.
+2021-06-03 10:28:56,573::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 10:29:47,259::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\search\urls.py changed, reloading.
+2021-06-03 10:29:47,260::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 10:30:20,090::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\volare_backend_main\urls.py changed, reloading.
+2021-06-03 10:30:20,091::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 10:30:48,552::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\search\admin.py changed, reloading.
+2021-06-03 10:30:48,552::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 10:31:02,681::ERROR::django.request::log.py::224::Internal Server Error: /api/search/
+Traceback (most recent call last):
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    response = response.render()
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 105, in render
+    self.content = self.rendered_content
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 81, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 63, in resolve_template
+    return select_template(template, using=self.using)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(', '.join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: index.html
+2021-06-03 10:31:04,057::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\logs\views.log changed, reloading.
+2021-06-03 10:31:04,058::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 10:31:05,619::ERROR::django.request::log.py::224::Internal Server Error: /api/search
+Traceback (most recent call last):
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    response = response.render()
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 105, in render
+    self.content = self.rendered_content
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 81, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 63, in resolve_template
+    return select_template(template, using=self.using)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(', '.join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: index.html
+2021-06-03 10:31:07,777::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\logs\views.log changed, reloading.
+2021-06-03 10:31:07,777::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 10:31:15,192::ERROR::django.request::log.py::224::Internal Server Error: /api/search/website
+Traceback (most recent call last):
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    response = response.render()
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 105, in render
+    self.content = self.rendered_content
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 81, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 63, in resolve_template
+    return select_template(template, using=self.using)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(', '.join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: index.html
+2021-06-03 10:31:16,133::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\logs\views.log changed, reloading.
+2021-06-03 10:31:16,134::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 10:31:36,325::ERROR::django.request::log.py::224::Internal Server Error: /api/search/website/
+Traceback (most recent call last):
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+psycopg2.errors.UndefinedTable: relation "search_website" does not exist
+LINE 1: ...arch_website"."icon", "search_website"."url" FROM "search_we...
+                                                             ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\rest_framework\generics.py", line 239, in get
+    return self.list(request, *args, **kwargs)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\rest_framework\mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\rest_framework\serializers.py", line 745, in data
+    ret = super().data
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\rest_framework\serializers.py", line 246, in data
+    self._data = self.to_representation(self.instance)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\rest_framework\serializers.py", line 663, in to_representation
+    return [
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\db\models\query.py", line 280, in __iter__
+    self._fetch_all()
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\db\models\query.py", line 1324, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\db\models\query.py", line 51, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1175, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\db\backends\utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\db\backends\utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\db\backends\utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\db\utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+django.db.utils.ProgrammingError: relation "search_website" does not exist
+LINE 1: ...arch_website"."icon", "search_website"."url" FROM "search_we...
+                                                             ^
+
+2021-06-03 10:31:37,991::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\logs\views.log changed, reloading.
+2021-06-03 10:31:37,992::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 10:31:46,054::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 10:32:06,756::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 10:32:11,277::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 10:33:22,812::ERROR::django.request::log.py::224::Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    response = response.render()
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 105, in render
+    self.content = self.rendered_content
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 81, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 63, in resolve_template
+    return select_template(template, using=self.using)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(', '.join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: index.html
+2021-06-03 10:33:23,334::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\logs\views.log changed, reloading.
+2021-06-03 10:33:23,334::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 10:34:40,999::DEBUG::PIL.Image::Image.py::394::Importing BlpImagePlugin
+2021-06-03 10:34:41,001::DEBUG::PIL.Image::Image.py::394::Importing BmpImagePlugin
+2021-06-03 10:34:41,001::DEBUG::PIL.Image::Image.py::394::Importing BufrStubImagePlugin
+2021-06-03 10:34:41,002::DEBUG::PIL.Image::Image.py::394::Importing CurImagePlugin
+2021-06-03 10:34:41,003::DEBUG::PIL.Image::Image.py::394::Importing DcxImagePlugin
+2021-06-03 10:34:41,004::DEBUG::PIL.Image::Image.py::394::Importing DdsImagePlugin
+2021-06-03 10:34:41,005::DEBUG::PIL.Image::Image.py::394::Importing EpsImagePlugin
+2021-06-03 10:34:41,043::DEBUG::PIL.Image::Image.py::394::Importing FitsStubImagePlugin
+2021-06-03 10:34:41,044::DEBUG::PIL.Image::Image.py::394::Importing FliImagePlugin
+2021-06-03 10:34:41,045::DEBUG::PIL.Image::Image.py::394::Importing FpxImagePlugin
+2021-06-03 10:34:41,047::DEBUG::PIL.Image::Image.py::397::Image: failed to import FpxImagePlugin: No module named 'olefile'
+2021-06-03 10:34:41,047::DEBUG::PIL.Image::Image.py::394::Importing FtexImagePlugin
+2021-06-03 10:34:41,048::DEBUG::PIL.Image::Image.py::394::Importing GbrImagePlugin
+2021-06-03 10:34:41,049::DEBUG::PIL.Image::Image.py::394::Importing GifImagePlugin
+2021-06-03 10:34:41,050::DEBUG::PIL.Image::Image.py::394::Importing GribStubImagePlugin
+2021-06-03 10:34:41,050::DEBUG::PIL.Image::Image.py::394::Importing Hdf5StubImagePlugin
+2021-06-03 10:34:41,051::DEBUG::PIL.Image::Image.py::394::Importing IcnsImagePlugin
+2021-06-03 10:34:41,054::DEBUG::PIL.Image::Image.py::394::Importing IcoImagePlugin
+2021-06-03 10:34:41,055::DEBUG::PIL.Image::Image.py::394::Importing ImImagePlugin
+2021-06-03 10:34:41,056::DEBUG::PIL.Image::Image.py::394::Importing ImtImagePlugin
+2021-06-03 10:34:41,057::DEBUG::PIL.Image::Image.py::394::Importing IptcImagePlugin
+2021-06-03 10:34:41,058::DEBUG::PIL.Image::Image.py::394::Importing JpegImagePlugin
+2021-06-03 10:34:41,058::DEBUG::PIL.Image::Image.py::394::Importing Jpeg2KImagePlugin
+2021-06-03 10:34:41,058::DEBUG::PIL.Image::Image.py::394::Importing McIdasImagePlugin
+2021-06-03 10:34:41,059::DEBUG::PIL.Image::Image.py::394::Importing MicImagePlugin
+2021-06-03 10:34:41,061::DEBUG::PIL.Image::Image.py::397::Image: failed to import MicImagePlugin: No module named 'olefile'
+2021-06-03 10:34:41,061::DEBUG::PIL.Image::Image.py::394::Importing MpegImagePlugin
+2021-06-03 10:34:41,062::DEBUG::PIL.Image::Image.py::394::Importing MpoImagePlugin
+2021-06-03 10:34:41,063::DEBUG::PIL.Image::Image.py::394::Importing MspImagePlugin
+2021-06-03 10:34:41,064::DEBUG::PIL.Image::Image.py::394::Importing PalmImagePlugin
+2021-06-03 10:34:41,079::DEBUG::PIL.Image::Image.py::394::Importing PcdImagePlugin
+2021-06-03 10:34:41,086::DEBUG::PIL.Image::Image.py::394::Importing PcxImagePlugin
+2021-06-03 10:34:41,086::DEBUG::PIL.Image::Image.py::394::Importing PdfImagePlugin
+2021-06-03 10:34:41,093::DEBUG::PIL.Image::Image.py::394::Importing PixarImagePlugin
+2021-06-03 10:34:41,094::DEBUG::PIL.Image::Image.py::394::Importing PngImagePlugin
+2021-06-03 10:34:41,094::DEBUG::PIL.Image::Image.py::394::Importing PpmImagePlugin
+2021-06-03 10:34:41,094::DEBUG::PIL.Image::Image.py::394::Importing PsdImagePlugin
+2021-06-03 10:34:41,095::DEBUG::PIL.Image::Image.py::394::Importing SgiImagePlugin
+2021-06-03 10:34:41,096::DEBUG::PIL.Image::Image.py::394::Importing SpiderImagePlugin
+2021-06-03 10:34:41,097::DEBUG::PIL.Image::Image.py::394::Importing SunImagePlugin
+2021-06-03 10:34:41,098::DEBUG::PIL.Image::Image.py::394::Importing TgaImagePlugin
+2021-06-03 10:34:41,099::DEBUG::PIL.Image::Image.py::394::Importing TiffImagePlugin
+2021-06-03 10:34:41,099::DEBUG::PIL.Image::Image.py::394::Importing WebPImagePlugin
+2021-06-03 10:34:41,108::DEBUG::PIL.Image::Image.py::394::Importing WmfImagePlugin
+2021-06-03 10:34:41,112::DEBUG::PIL.Image::Image.py::394::Importing XbmImagePlugin
+2021-06-03 10:34:41,114::DEBUG::PIL.Image::Image.py::394::Importing XpmImagePlugin
+2021-06-03 10:34:41,115::DEBUG::PIL.Image::Image.py::394::Importing XVThumbImagePlugin
+2021-06-03 10:34:41,897::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\logs\views.log changed, reloading.
+2021-06-03 10:34:41,898::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 10:35:49,789::DEBUG::PIL.PngImagePlugin::PngImagePlugin.py::186::STREAM b'IHDR' 16 13
+2021-06-03 10:35:49,790::DEBUG::PIL.PngImagePlugin::PngImagePlugin.py::186::STREAM b'gAMA' 41 4
+2021-06-03 10:35:49,790::DEBUG::PIL.PngImagePlugin::PngImagePlugin.py::186::STREAM b'cHRM' 57 32
+2021-06-03 10:35:49,790::DEBUG::PIL.PngImagePlugin::PngImagePlugin.py::186::STREAM b'IDAT' 101 31999
+2021-06-03 10:35:49,791::DEBUG::PIL.Image::Image.py::394::Importing BlpImagePlugin
+2021-06-03 10:35:49,791::DEBUG::PIL.Image::Image.py::394::Importing BmpImagePlugin
+2021-06-03 10:35:49,791::DEBUG::PIL.Image::Image.py::394::Importing BufrStubImagePlugin
+2021-06-03 10:35:49,792::DEBUG::PIL.Image::Image.py::394::Importing CurImagePlugin
+2021-06-03 10:35:49,792::DEBUG::PIL.Image::Image.py::394::Importing DcxImagePlugin
+2021-06-03 10:35:49,793::DEBUG::PIL.Image::Image.py::394::Importing DdsImagePlugin
+2021-06-03 10:35:49,793::DEBUG::PIL.Image::Image.py::394::Importing EpsImagePlugin
+2021-06-03 10:35:49,828::DEBUG::PIL.Image::Image.py::394::Importing FitsStubImagePlugin
+2021-06-03 10:35:49,828::DEBUG::PIL.Image::Image.py::394::Importing FliImagePlugin
+2021-06-03 10:35:49,829::DEBUG::PIL.Image::Image.py::394::Importing FpxImagePlugin
+2021-06-03 10:35:49,830::DEBUG::PIL.Image::Image.py::397::Image: failed to import FpxImagePlugin: No module named 'olefile'
+2021-06-03 10:35:49,830::DEBUG::PIL.Image::Image.py::394::Importing FtexImagePlugin
+2021-06-03 10:35:49,830::DEBUG::PIL.Image::Image.py::394::Importing GbrImagePlugin
+2021-06-03 10:35:49,831::DEBUG::PIL.Image::Image.py::394::Importing GifImagePlugin
+2021-06-03 10:35:49,831::DEBUG::PIL.Image::Image.py::394::Importing GribStubImagePlugin
+2021-06-03 10:35:49,832::DEBUG::PIL.Image::Image.py::394::Importing Hdf5StubImagePlugin
+2021-06-03 10:35:49,832::DEBUG::PIL.Image::Image.py::394::Importing IcnsImagePlugin
+2021-06-03 10:35:49,834::DEBUG::PIL.Image::Image.py::394::Importing IcoImagePlugin
+2021-06-03 10:35:49,834::DEBUG::PIL.Image::Image.py::394::Importing ImImagePlugin
+2021-06-03 10:35:49,835::DEBUG::PIL.Image::Image.py::394::Importing ImtImagePlugin
+2021-06-03 10:35:49,836::DEBUG::PIL.Image::Image.py::394::Importing IptcImagePlugin
+2021-06-03 10:35:49,836::DEBUG::PIL.Image::Image.py::394::Importing JpegImagePlugin
+2021-06-03 10:35:49,836::DEBUG::PIL.Image::Image.py::394::Importing Jpeg2KImagePlugin
+2021-06-03 10:35:49,836::DEBUG::PIL.Image::Image.py::394::Importing McIdasImagePlugin
+2021-06-03 10:35:49,837::DEBUG::PIL.Image::Image.py::394::Importing MicImagePlugin
+2021-06-03 10:35:49,837::DEBUG::PIL.Image::Image.py::397::Image: failed to import MicImagePlugin: No module named 'olefile'
+2021-06-03 10:35:49,837::DEBUG::PIL.Image::Image.py::394::Importing MpegImagePlugin
+2021-06-03 10:35:49,838::DEBUG::PIL.Image::Image.py::394::Importing MpoImagePlugin
+2021-06-03 10:35:49,838::DEBUG::PIL.Image::Image.py::394::Importing MspImagePlugin
+2021-06-03 10:35:49,839::DEBUG::PIL.Image::Image.py::394::Importing PalmImagePlugin
+2021-06-03 10:35:49,840::DEBUG::PIL.Image::Image.py::394::Importing PcdImagePlugin
+2021-06-03 10:35:49,840::DEBUG::PIL.Image::Image.py::394::Importing PcxImagePlugin
+2021-06-03 10:35:49,840::DEBUG::PIL.Image::Image.py::394::Importing PdfImagePlugin
+2021-06-03 10:35:49,845::DEBUG::PIL.Image::Image.py::394::Importing PixarImagePlugin
+2021-06-03 10:35:49,845::DEBUG::PIL.Image::Image.py::394::Importing PngImagePlugin
+2021-06-03 10:35:49,846::DEBUG::PIL.Image::Image.py::394::Importing PpmImagePlugin
+2021-06-03 10:35:49,846::DEBUG::PIL.Image::Image.py::394::Importing PsdImagePlugin
+2021-06-03 10:35:49,846::DEBUG::PIL.Image::Image.py::394::Importing SgiImagePlugin
+2021-06-03 10:35:49,847::DEBUG::PIL.Image::Image.py::394::Importing SpiderImagePlugin
+2021-06-03 10:35:49,847::DEBUG::PIL.Image::Image.py::394::Importing SunImagePlugin
+2021-06-03 10:35:49,848::DEBUG::PIL.Image::Image.py::394::Importing TgaImagePlugin
+2021-06-03 10:35:49,848::DEBUG::PIL.Image::Image.py::394::Importing TiffImagePlugin
+2021-06-03 10:35:49,848::DEBUG::PIL.Image::Image.py::394::Importing WebPImagePlugin
+2021-06-03 10:35:49,851::DEBUG::PIL.Image::Image.py::394::Importing WmfImagePlugin
+2021-06-03 10:35:49,852::DEBUG::PIL.Image::Image.py::394::Importing XbmImagePlugin
+2021-06-03 10:35:49,852::DEBUG::PIL.Image::Image.py::394::Importing XpmImagePlugin
+2021-06-03 10:35:49,853::DEBUG::PIL.Image::Image.py::394::Importing XVThumbImagePlugin
+2021-06-03 10:35:51,021::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\logs\views.log changed, reloading.
+2021-06-03 10:35:51,022::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 10:36:37,625::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\search\urls.py changed, reloading.
+2021-06-03 10:36:37,626::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-03 10:41:36,475::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\search\views.py changed, reloading.
+2021-06-03 10:41:36,476::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-04 13:32:15,745::ERROR::django.request::log.py::224::Internal Server Error: /api/search/website/search
+Traceback (most recent call last):
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    response = response.render()
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 105, in render
+    self.content = self.rendered_content
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 81, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 63, in resolve_template
+    return select_template(template, using=self.using)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(', '.join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: index.html
+2021-06-04 13:32:17,440::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\logs\views.log changed, reloading.
+2021-06-04 13:32:17,441::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-04 14:42:18,629::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\volare_backend_main\settings.py changed, reloading.
+2021-06-04 14:42:18,718::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-04 14:42:23,715::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-04 14:42:33,513::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-04 14:43:30,015::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
+2021-06-06 19:06:09,977::ERROR::django.request::log.py::224::Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    response = response.render()
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 105, in render
+    self.content = self.rendered_content
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 81, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\response.py", line 63, in resolve_template
+    return select_template(template, using=self.using)
+  File "D:\Documents\Volare\backend\venv\lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(', '.join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: index.html
+2021-06-06 19:06:11,262::INFO::django.utils.autoreload::autoreload.py::250::D:\Documents\Volare\backend\logs\views.log changed, reloading.
+2021-06-06 19:06:11,263::DEBUG::asyncio::proactor_events.py::623::Using proactor: IocpProactor
