@@ -12,7 +12,6 @@ https://docs.djangoproject.com/en/3.2/ref/settings/
 import os
 import dj_database_url
 import django_heroku
-
 import dotenv
 from pathlib import Path
 
@@ -20,6 +19,9 @@ from pathlib import Path
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
+dotenv_file = os.path.join(BASE_DIR, ".env")
+if os.path.isfile(dotenv_file):
+    dotenv.load_dotenv(dotenv_file)
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/3.2/howto/deployment/checklist/
@@ -145,8 +147,10 @@ STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 
 STATIC_URL = '/static/'
 STATICFILES_DIRS = [
-    os.path.join(BASE_DIR, 'build/static'),
+    os.path.join(BASE_DIR, 'static'),
 ]
+
+# used to say build/static above
 STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 
 
@@ -180,6 +184,5 @@ CORS_ORIGIN_ALLOW_ALL = True
 # This should already be in your settings.py
 django_heroku.settings(locals())
 # This is new
-# options = DATABASES['default'].get('OPTIONS', {})
-# options.pop('sslmode', None)
-del DATABASES['default']['OPTIONS']['sslmode']
+options = DATABASES['default'].get('OPTIONS', {})
+options.pop('sslmode', None)
