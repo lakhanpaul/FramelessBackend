@@ -11,6 +11,9 @@ https://docs.djangoproject.com/en/3.2/ref/settings/
 """
 import os
 import dj_database_url
+import django_heroku
+
+import dotenv
 from pathlib import Path
 
 
@@ -48,6 +51,7 @@ INSTALLED_APPS = [
 MIDDLEWARE = [
     'corsheaders.middleware.CorsMiddleware',
     'django.middleware.security.SecurityMiddleware',
+    'whitenoise.middleware.WhiteNoiseMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
@@ -80,19 +84,22 @@ WSGI_APPLICATION = 'volare_backend_main.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/3.2/ref/settings/#databases
 
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'volare_main_database',
-        'USER':'volare_developer',
-        'PASSWORD': 'Anjunalak5',
-        'HOST':'localhost',
-        'PORT':5432
-    }
-}
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.postgresql',
+#         'NAME': 'volare_main_database',
+#         'USER':'volare_developer',
+#         'PASSWORD': 'Anjunalak5',
+#         'HOST':'localhost',
+#         'PORT':5432
+#     }
+# }
 
-db_from_env = dj_database_url.config(conn_max_age=600)
-DATABASES['default'].update(db_from_env)
+# db_from_env = dj_database_url.config(conn_max_age=600)
+# DATABASES['default'].update(db_from_env)
+
+DATABASES = {}
+DATABASES['default'] = dj_database_url.config(conn_max_age=600)
 
 ALLOWED_HOSTS = ['*']
 
@@ -137,10 +144,11 @@ USE_TZ = True
 STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 
 STATIC_URL = '/static/'
+STATICFILES_DIRS = [
+    os.path.join(BASE_DIR, 'build/static'),
+]
 STATIC_ROOT = os.path.join(BASE_DIR, 'static')
-# STATICFILES_DIRS = [
-#     os.path.join(BASE_DIR, 'volare_backend_main/static'),
-# ]
+
 
 
 MEDIA_URL = '/media/'
@@ -168,3 +176,10 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 CORS_ORIGIN_ALLOW_ALL = True
 # CORS_ORIGIN_WHITELIST =os.environ.get("DJANGO_CORS_ORIGIN_WHITELIST").split(" ")
+
+# This should already be in your settings.py
+django_heroku.settings(locals())
+# This is new
+# options = DATABASES['default'].get('OPTIONS', {})
+# options.pop('sslmode', None)
+del DATABASES['default']['OPTIONS']['sslmode']
