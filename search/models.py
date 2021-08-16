@@ -65,9 +65,9 @@ class OpportunityDescriptionCard(models.Model):
 class OpportunityDescriptionCardFeature(models.Model):
     description_card = models.ForeignKey(OpportunityDescriptionCard, related_name='features', on_delete=models.CASCADE)
     title = models.CharField(max_length=200)
-    icon = models.FileField(upload_to="media/icons/%Y/%m/", validators=[FileExtensionValidator(['pdf', 'doc', 'svg'])])
     description = models.TextField(blank=True)
 
+# removed the icon attribute, used to be "icon = models.FileField(upload_to="media/icons/%Y/%m/", validators=[FileExtensionValidator(['pdf', 'doc', 'svg'])])"
     class Meta:
         unique_together = ['description_card', 'title']
         ordering = ['?']
