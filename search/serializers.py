@@ -5,7 +5,8 @@ from .models import Opportunity, OpportunityDescriptionCard,OpportunityDescripti
 class OpportunityDescriptionCardFeatureSerializer(serializers.ModelSerializer):
     class Meta:
         model = OpportunityDescriptionCardFeature
-        fields = ['title', 'icon','description',]
+        fields = ['title','description',]
+        # above used to include 'icon' but this attribute was removed
 
 class OpportunityDescriptionCardSerializer(serializers.ModelSerializer):
     features = OpportunityDescriptionCardFeatureSerializer(many=True)
