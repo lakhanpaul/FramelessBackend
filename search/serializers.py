@@ -26,7 +26,7 @@ class OpportunityDescriptionCardSerializer(serializers.ModelSerializer):
         for feature_data in features_data:
 
             # create a feature model and set the related description card to the one just created (removed **feature_data)
-            OpportunityDescriptionCardFeature.objects.create(description_card=description_card)
+            OpportunityDescriptionCardFeature.objects.create(description_card=description_card, **feature_data)
 
         return description_card
 
