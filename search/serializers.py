@@ -15,14 +15,6 @@ class OpportunityDescriptionCardSerializer(serializers.ModelSerializer):
         model = OpportunityDescriptionCard
         fields = ['title','subtitle','description', 'image', 'url', 'features' ]
 
-    def create(self, validated_data):
-        features_data = validated_data.pop('features')
-        description_card = OpportunityDescriptionCard.objects.create(**validated_data)
-
-        for feature in features_data:
-            OpportunityDescriptionCardFeature.objects.create(description_card=description_card, **feature)
-
-        return description_card
 
 class OpportunitySerializer(serializers.ModelSerializer):
 
