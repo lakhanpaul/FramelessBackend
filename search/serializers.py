@@ -19,8 +19,8 @@ class OpportunityDescriptionCardSerializer(serializers.ModelSerializer):
         features_data = validated_data.pop('features')
         description_card = OpportunityDescriptionCard.objects.create(**validated_data)
 
-        for feature_data in features_data:
-            OpportunityDescriptionCardFeature.objects.create(description_card=description_card, **feature_data)
+        for feature in features_data:
+            OpportunityDescriptionCardFeature.objects.create(description_card=description_card, **feature)
 
         return description_card
 
