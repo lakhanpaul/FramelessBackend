@@ -37,7 +37,7 @@ class Opportunity(models.Model):
         while(queryset):
             slug = original_slug + '-' + str(count)
             count += 1
-            queryset = Opportunity.objects.all().filters(slug__iexact=slug).count()
+            queryset = Opportunity.objects.all().filter(slug__iexact=slug).count()
         
         self.slug = slug
 
