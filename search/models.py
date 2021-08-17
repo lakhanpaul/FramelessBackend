@@ -63,7 +63,7 @@ class OpportunityDescriptionCard(models.Model):
     
 
 class OpportunityDescriptionCardFeature(models.Model):
-    description_card = models.ForeignKey(OpportunityDescriptionCard, related_name='card_features', on_delete=models.CASCADE)
+    description_card = models.ForeignKey(OpportunityDescriptionCard, related_name='features', on_delete=models.CASCADE)
     title = models.CharField(max_length=200)
     description = models.TextField(blank=True)
 
