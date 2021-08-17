@@ -15,20 +15,20 @@ class OpportunityDescriptionCardSerializer(serializers.ModelSerializer):
         model = OpportunityDescriptionCard
         fields = ['title','subtitle','description', 'image', 'url', 'features' ]
 
-    def create(self, validated_data):
-        # access the data held in the 'feature' attribute from the data passed in, and remove it from the validated_data object
-        features_data = validated_data.pop('features')
+    # def create(self, validated_data):
+    #     # access the data held in the 'feature' attribute from the data passed in, and remove it from the validated_data object
+    #     features_data = validated_data.pop('features')
 
-        # create a new description card with the data
-        description_card = OpportunityDescriptionCard.objects.create(**validated_data)
+    #     # create a new description card with the data
+    #     description_card = OpportunityDescriptionCard.objects.create(**validated_data)
 
-        # for each feature in the array of features
-        for feature_data in features_data:
+    #     # for each feature in the array of features
+    #     for feature_data in features_data:
 
-            # create a feature model and set the related description card to the one just created (removed **feature_data)
-            OpportunityDescriptionCardFeature.objects.create(description_card=description_card, **feature_data)
+    #         # create a feature model and set the related description card to the one just created (removed **feature_data)
+    #         OpportunityDescriptionCardFeature.objects.create(description_card=description_card, **feature_data)
 
-        return description_card
+    #     return description_card
 
 class OpportunitySerializer(serializers.ModelSerializer):
 
@@ -44,6 +44,12 @@ class OpportunitySerializer(serializers.ModelSerializer):
         opportunity = Opportunity.objects.create(**validated_data)
 
         for card_data in description_cards_data:
-            OpportunityDescriptionCard.objects.create(opportunity=opportunity, **card_data )
+
+            features_data = card_data.pop('features')
+
+            description_card = OpportunityDescriptionCard.objects.create(opportunity=opportunity, **card_data )
+
+            for feature_data in features_data:
+                OpportunityDescriptionCardFeature.objects.create(description_card=description_card,  **feature_data)
 
         return opportunity
