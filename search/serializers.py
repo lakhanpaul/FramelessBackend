@@ -38,7 +38,7 @@ class OpportunitySerializer(serializers.ModelSerializer):
         opportunity = Opportunity.objects.create(**validated_data)
 
         for card_data in description_cards_data:
-            data_without_features = card_data.pop("features")
-            OpportunityDescriptionCard.objects.create(opportunity=opportunity, **data_without_features )
+            card_data.pop("features")
+            OpportunityDescriptionCard.objects.create(opportunity=opportunity, **card_data )
 
         return opportunity
