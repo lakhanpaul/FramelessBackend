@@ -15,6 +15,14 @@ class OpportunityDescriptionCardSerializer(serializers.ModelSerializer):
         model = OpportunityDescriptionCard
         fields = ['title','subtitle','description', 'image', 'url', 'features' ]
 
+    # def create(self, validated_data):
+    #     features_data = validated_data.pop('features')
+    #     description_card = OpportunityDescriptionCard.objects.create(**validated_data)
+
+    #     for feature in features_data:
+    #         OpportunityDescriptionCardFeature.objects.create(description_card=description_card, **feature)
+
+    #     return description_card
 
 class OpportunitySerializer(serializers.ModelSerializer):
 
@@ -25,11 +33,11 @@ class OpportunitySerializer(serializers.ModelSerializer):
         fields =[ 'slug', 'image', 'company', 'type', 'title', 'duration', 'location', 'url', 'description_cards']
         lookup_field = 'slug'
     
-    def create(self, validated_data):
-        description_cards_data = validated_data.pop('description_cards')
-        opportunity = Opportunity.objects.create(**validated_data)
+    # def create(self, validated_data):
+    #     description_cards_data = validated_data.pop('description_cards')
+    #     opportunity = Opportunity.objects.create(**validated_data)
 
-        for card_data in description_cards_data:
-            OpportunityDescriptionCard.objects.create(opportunity=opportunity, **card_data)
+    #     for card_data in description_cards_data:
+    #         OpportunityDescriptionCard.objects.create(opportunity=opportunity, **card_data)
 
-        return opportunity
+    #     return opportunity
